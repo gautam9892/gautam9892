@@ -12,7 +12,7 @@ I am currently pursuing my Master of Computer Applications (MCA) from Manipal Un
 ![](https://nirzak-streak-stats.vercel.app/?user=gautam9892&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam9892&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gautam9892&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
