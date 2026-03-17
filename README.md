@@ -1,10 +1,10 @@
 # 💫 About Me:
-📊 Aspiring Data Analyst | Power BI · Python · SQL · Excel · Tableau
-🏆 Microsoft Certified: Power BI Data Analyst (PL-300) & Azure Fundamentals (AZ-900)
-🔍 Turning raw data into actionable insights & business-driven dashboards
-🛠️ Skilled in DAX, ETL, Data Visualization & Interactive Reporting
-🌱 Exploring advanced analytics, cloud data workflows & real-world BI solutions
-💼 Actively seeking internships & entry-level roles in Data Analytics / BI
+📊 Aspiring Data Analyst | Power BI · Python · SQL · Excel · Tableau <br>
+🏆 Microsoft Certified: Power BI Data Analyst (PL-300) & Azure Fundamentals (AZ-900) <br>
+🔍 Turning raw data into actionable insights & business-driven dashboards <br>
+🛠️ Skilled in DAX, ETL, Data Visualization & Interactive Reporting <br>
+🌱 Exploring advanced analytics, cloud data workflows & real-world BI solutions <br>
+💼 Actively seeking internships & entry-level roles in Data Analytics / BI <br>
 📫 Let's connect and build something data-driven!
 
 
