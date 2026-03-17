@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently pursuing my Master of Computer Applications (MCA) from Manipal University Jaipur, with a strong focus on Data Analytics. My goal is to transform raw data into actionable insights that drive smarter, data-informed decisions.<br><br>As a Microsoft Certified Azure Fundamentals (AZ-900) professional, I have a solid foundation in Azure cloud services and their role in supporting modern data workflows. Alongside my academics, I am continuously expanding my expertise in data analysis, visualization, and business intelligence tools to build a career in Data Analytics.<br><br>🔧 Core Skills:<br><br>• Data Analysis with Python, Excel, and Power BI<br><br>• SQL for querying, reporting, and managing relational data<br><br>• Data Visualization & Interactive Dashboards (Power BI, Tableau)<br><br>• Azure Services: Azure SQL Database, DNS, IAM, VM Backup, Load Balancer<br><br><br>🌱 I am passionate about solving real-world problems through data and eager to learn, contribute, and grow within a forward-thinking, analytics-driven team.<br><br>📩 I’m actively seeking internships and entry-level opportunities in Data Analytics / Business Intelligence where I can apply my skills, gain industry exposure, and create impact.<br><br>🔗 Explore my projects and contributions on GitHub: github.com/gautam9892
+📊 Aspiring Data Analyst | Power BI · Python · SQL · Excel · Tableau
+🏆 Microsoft Certified: Power BI Data Analyst (PL-300) & Azure Fundamentals (AZ-900)
+🔍 Turning raw data into actionable insights & business-driven dashboards
+🛠️ Skilled in DAX, ETL, Data Visualization & Interactive Reporting
+🌱 Exploring advanced analytics, cloud data workflows & real-world BI solutions
+💼 Actively seeking internships & entry-level roles in Data Analytics / BI
+📫 Let's connect and build something data-driven!
 
 
 ## 🌐 Socials:
