@@ -1,5 +1,5 @@
 ## 💫 About Me:
-📊 Aspiring Data Analyst | Power BI · Python · SQL · Excel · Tableau <br>
+📊 Data Analyst | Power BI · Python · SQL · Excel · Tableau <br>
 🏆 Microsoft Certified: Power BI Data Analyst (PL-300) & Azure Fundamentals (AZ-900) <br>
 🔍 Turning raw data into actionable insights & business-driven dashboards <br>
 🛠️ Skilled in DAX, ETL, Data Visualization & Interactive Reporting <br>
